@@ -32,5 +32,5 @@
       name: sharks-app-$BUILD_ID
       image: rufatzakirov/sharks:v$BUILD_ID
       ports:
-        - "5000:5000"
+        - "8888:8080"
 
